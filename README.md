@@ -9,8 +9,8 @@ Proyecto desarrollado con **HTML**, **CSS** y **JavaScript**, cargando datos des
 
 ## 🚀 Demo
 Puedes jugarlo aquí:  
-[https://<tu-usuario>.github.io/adivina-quien-kpop/](https://<tu-usuario>.github.io/adivina-quien-kpop/)
-
+[[https://<tu-usuario>.github.io/adivina-quien-kpop/](https://<tu-usuario>.github.io/adivina-quien-kpop/)
+](https://mcrespo133.github.io/adivina-quien-kpop/)
 ---
 
 ## 📂 Estructura del proyecto
