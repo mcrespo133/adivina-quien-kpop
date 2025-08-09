@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Adivina Quién? — K-pop Board</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <!-- Pantalla de inicio -->
+    <div id="startScreen" class="start-screen">
+        <div class="start-content">
+            <h1>🎤 Adivina Quién? — Versión K-pop 🎶</h1>
+            <p>Haz clic en "Iniciar" para mostrar el tablero y comenzar a descartar idols.</p>
+            <button id="btnStart" class="start-btn">Iniciar</button>
+        </div>
+    </div>
+
+    <!-- Contenido del juego (oculto al inicio) -->
+    <div id="gameContent" style="display:none">
+        <header>
+            <div class="wrap">
+                <h1>Tablero K-pop — Adivina Quién?</h1>
+                <button id="btnReset" title="Limpia descartes (R)">Reiniciar (R)</button>
+                <div class="controls">
+                    <button id="btnShuffle" title="Reordena el tablero (S)" hidden>Mezclar (S)</button>
+                    <button id="btnExport" title="Descarga el estado actual en JSON" hidden>Exportar estado</button>
+                    <!-- <label class="filelike" title="Carga una lista custom de idols en JSON (ver formato)" hidden>
+            <input id="fileInput" type="file" accept="application/json" hidden>
+            Cargar JSON
+          </label> -->
+                    <span class="hint" hidden>Tip: clic para descartar, Alt+clic para marcar favorito. Ctrl+Z =
+                        deshacer</span>
+                </div>
+            </div>
+        </header>
+
+        <main class="board">
+            <div class="search wrap" style="padding:0 0 12px" hidden>
+                <input id="q" placeholder="Filtrar por nombre o grupo… (opcional)" hidden/>
+            </div>
+            <div id="grid" class="grid wrap" aria-live="polite"></div>
+            <div id="empty" class="empty wrap" hidden></div>
+        </main>
+
+        <footer class="footer">
+            <div class="wrap">
+                <div class="legend">
+                    <span class="dot keep"></span> Clic derecho = Marcar favorito
+                    <span class="dot dis"></span> Clic izquierdo = Descartar
+                </div>
+                <!-- <div class="hint">Atajos: R reinicia • S mezcla • Alt+clic favorito • Ctrl+Z deshacer</div> -->
+            </div>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

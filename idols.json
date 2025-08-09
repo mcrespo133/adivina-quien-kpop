@@ -1,0 +1,674 @@
+[
+  {
+    "nombre": "Karina",
+    "grupo": "aespa",
+    "genero": "F",
+    "imagen": "img/karina.png"
+  },
+  {
+    "nombre": "Giselle",
+    "grupo": "aespa",
+    "genero": "F",
+    "imagen": "img/giselle.png"
+  },
+  {
+    "nombre": "Winter",
+    "grupo": "aespa",
+    "genero": "F",
+    "imagen": "img/winter.png"
+  },
+  {
+    "nombre": "Ningning",
+    "grupo": "aespa",
+    "genero": "F",
+    "imagen": "img/ningning.png"
+  },
+    {
+    "nombre": "HeeJin",
+    "grupo": "ARTMS",
+    "genero": "F",
+    "imagen": "img/heejin.png"
+  },
+  {
+    "nombre": "Kim Lip",
+    "grupo": "ARTMS",
+    "genero": "F",
+    "imagen": "img/kimlip.png"
+  },
+  {
+    "nombre": "JinSoul",
+    "grupo": "ARTMS",
+    "genero": "F",
+    "imagen": "img/jinsoul.png"
+  },
+  {
+    "nombre": "Choerry",
+    "grupo": "ARTMS",
+    "genero": "F",
+    "imagen": "img/choerry.png"
+  },
+  {
+    "nombre": "Haseul",
+    "grupo": "ARTMS",
+    "genero": "F",
+    "imagen": "img/haseul.png"
+  },
+    {
+    "nombre": "Jisoo",
+    "grupo": "BLACKPINK",
+    "genero": "F",
+    "imagen": "img/jisoo.png"
+  },
+  {
+    "nombre": "Jennie",
+    "grupo": "BLACKPINK",
+    "genero": "F",
+    "imagen": "img/jennie.png"
+  },
+  {
+    "nombre": "Rosé",
+    "grupo": "BLACKPINK",
+    "genero": "F",
+    "imagen": "img/rose.png"
+  },
+  {
+    "nombre": "Lisa",
+    "grupo": "BLACKPINK",
+    "genero": "F",
+    "imagen": "img/lisa.png"
+  },
+  {
+    "nombre": "RM",
+    "grupo": "BTS",
+    "genero": "M",
+    "imagen": "img/rm.png"
+  },
+  {
+    "nombre": "Suga",
+    "grupo": "BTS",
+    "genero": "M",
+    "imagen": "img/suga.png"
+  },
+  {
+    "nombre": "J-Hope",
+    "grupo": "BTS",
+    "genero": "M",
+    "imagen": "img/j-hope.png"
+  },
+  {
+    "nombre": "V",
+    "grupo": "BTS",
+    "genero": "M",
+    "imagen": "img/v.png"
+  },
+  {
+    "nombre": "Jungkook",
+    "grupo": "BTS",
+    "genero": "M",
+    "imagen": "img/jungkook.png"
+  },
+  {
+    "nombre": "Keena",
+    "grupo": "FIFTY FIFTY",
+    "genero": "F",
+    "imagen": "img/keena.png"
+  },
+  {
+    "nombre": "Chanelle",
+    "grupo": "FIFTY FIFTY",
+    "genero": "F",
+    "imagen": "img/chanelle.png"
+  },
+  {
+    "nombre": "Yewon",
+    "grupo": "FIFTY FIFTY",
+    "genero": "F",
+    "imagen": "img/yewon.png"
+  },
+  {
+    "nombre": "Hana",
+    "grupo": "FIFTY FIFTY",
+    "genero": "F",
+    "imagen": "img/hana.png"
+  },
+  {
+    "nombre": "Athena",
+    "grupo": "FIFTY FIFTY",
+    "genero": "F",
+    "imagen": "img/athena.png"
+  },
+  {
+    "nombre": "Saerom",
+    "grupo": "fromis_9",
+    "genero": "F",
+    "imagen": "img/saerom.png"
+  },
+  {
+    "nombre": "Hayoung",
+    "grupo": "fromis_9",
+    "genero": "F",
+    "imagen": "img/hayoung.png"
+  },
+  {
+    "nombre": "Gyuri",
+    "grupo": "fromis_9",
+    "genero": "F",
+    "imagen": "img/gyuri.png"
+  },
+  {
+    "nombre": "Jiwon",
+    "grupo": "fromis_9",
+    "genero": "F",
+    "imagen": "img/jiwon.png"
+  },
+  {
+    "nombre": "Jisun",
+    "grupo": "fromis_9",
+    "genero": "F",
+    "imagen": "img/jisun.png"
+  },
+  {
+    "nombre": "Chaeyoung",
+    "grupo": "fromis_9",
+    "genero": "F",
+    "imagen": "img/fromis_chaeyoung.png"
+  },
+  {
+    "nombre": "Nagyung",
+    "grupo": "fromis_9",
+    "genero": "F",
+    "imagen": "img/nagyung.png"
+  },
+  {
+    "nombre": "Jiheon",
+    "grupo": "fromis_9",
+    "genero": "F",
+    "imagen": "img/jiheon.png"
+  },
+  {
+    "nombre": "Sowon",
+    "grupo": "GFriend",
+    "genero": "F",
+    "imagen": "img/sowon.png"
+  },
+  {
+    "nombre": "Yerin",
+    "grupo": "GFriend",
+    "genero": "F",
+    "imagen": "img/yerin.png"
+  },
+  {
+    "nombre": "Eunha",
+    "grupo": "VIVIZ",
+    "genero": "F",
+    "imagen": "img/eunha.png"
+  },
+  {
+    "nombre": "Yuju",
+    "grupo": "GFriend",
+    "genero": "F",
+    "imagen": "img/yuju.png"
+  },
+  {
+    "nombre": "SinB",
+    "grupo": "VIVIZ",
+    "genero": "F",
+    "imagen": "img/sinb.png"
+  },
+  {
+    "nombre": "Umji",
+    "grupo": "VIVIZ",
+    "genero": "F",
+    "imagen": "img/umji.png"
+  },
+    {
+    "nombre": "Soyeon",
+    "grupo": "I-DLE",
+    "genero": "F",
+    "imagen": "img/soyeon.png"
+  },
+  {
+    "nombre": "Miyeon",
+    "grupo": "I-DLE",
+    "genero": "F",
+    "imagen": "img/miyeon.png"
+  },
+  {
+    "nombre": "Minnie",
+    "grupo": "I-DLE",
+    "genero": "F",
+    "imagen": "img/minnie.png"
+  },
+  {
+    "nombre": "Yuqi",
+    "grupo": "I-DLE",
+    "genero": "F",
+    "imagen": "img/yuqi.png"
+  },
+  {
+    "nombre": "Shuhua",
+    "grupo": "I-DLE",
+    "genero": "F",
+    "imagen": "img/shuhua.png"
+  },
+  {
+    "nombre": "Yunah",
+    "grupo": "ILLIT",
+    "genero": "F",
+    "imagen": "img/yunah.png"
+  },
+  {
+    "nombre": "Minju",
+    "grupo": "ILLIT",
+    "genero": "F",
+    "imagen": "img/illit_minju.png"
+  },
+  {
+    "nombre": "Moka",
+    "grupo": "ILLIT",
+    "genero": "F",
+    "imagen": "img/moka.png"
+  },
+  {
+    "nombre": "Wonhee",
+    "grupo": "ILLIT",
+    "genero": "F",
+    "imagen": "img/wonhee.png"
+  },
+  {
+    "nombre": "Iroha",
+    "grupo": "ILLIT",
+    "genero": "F",
+    "imagen": "img/iroha.png"
+  },
+  {
+    "nombre": "An Yujin",
+    "grupo": "IVE",
+    "genero": "F",
+    "imagen": "img/an_yujin.png"
+  },
+  {
+    "nombre": "Gaeul",
+    "grupo": "IVE",
+    "genero": "F",
+    "imagen": "img/gaeul.png"
+  },
+  {
+    "nombre": "Rei",
+    "grupo": "IVE",
+    "genero": "F",
+    "imagen": "img/rei.png"
+  },
+  {
+    "nombre": "Wonyoung",
+    "grupo": "IVE",
+    "genero": "F",
+    "imagen": "img/wonyoung.png"
+  },
+  {
+    "nombre": "Liz",
+    "grupo": "IVE",
+    "genero": "F",
+    "imagen": "img/liz.png"
+  },
+  {
+    "nombre": "Leeseo",
+    "grupo": "IVE",
+    "genero": "F",
+    "imagen": "img/leeseo.png"
+  },
+  {
+    "nombre": "Eunbi",
+    "grupo": "IZ*ONE",
+    "genero": "F",
+    "imagen": "img/eunbi.png"
+  },
+  {
+    "nombre": "Hyewon",
+    "grupo": "IZ*ONE",
+    "genero": "F",
+    "imagen": "img/hyewon.png"
+  },
+  {
+    "nombre": "Yena",
+    "grupo": "IZ*ONE",
+    "genero": "F",
+    "imagen": "img/yena.png"
+  },
+  {
+    "nombre": "Chaeyeon",
+    "grupo": "IZ*ONE",
+    "genero": "F",
+    "imagen": "img/chaeyeon.png"
+  },
+  {
+    "nombre": "Minju",
+    "grupo": "IZ*ONE",
+    "genero": "F",
+    "imagen": "img/minju.png"
+  },
+  {
+    "nombre": "Nako",
+    "grupo": "IZ*ONE",
+    "genero": "F",
+    "imagen": "img/nako.png"
+  },
+  {
+    "nombre": "Yuri",
+    "grupo": "IZ*ONE",
+    "genero": "F",
+    "imagen": "img/yuri.png"
+  },
+    {
+    "nombre": "Yujin",
+    "grupo": "Kep1er",
+    "genero": "F",
+    "imagen": "img/yujin.png"
+  },
+  {
+    "nombre": "Mashiro",
+    "grupo": "Kep1er",
+    "genero": "F",
+    "imagen": "img/mashiro.png"
+  },
+  {
+    "nombre": "Xiaoting",
+    "grupo": "Kep1er",
+    "genero": "F",
+    "imagen": "img/xiaoting.png"
+  },
+  {
+    "nombre": "Chaehyun",
+    "grupo": "Kep1er",
+    "genero": "F",
+    "imagen": "img/chaehyun.png"
+  },
+  {
+    "nombre": "Dayeon",
+    "grupo": "Kep1er",
+    "genero": "F",
+    "imagen": "img/dayeon.png"
+  },
+  {
+    "nombre": "Hikaru",
+    "grupo": "Kep1er",
+    "genero": "F",
+    "imagen": "img/hikaru.png"
+  },
+  {
+    "nombre": "Bahiyyih",
+    "grupo": "Kep1er",
+    "genero": "F",
+    "imagen": "img/bahiyyih.png"
+  },
+  {
+    "nombre": "Youngeun",
+    "grupo": "Kep1er",
+    "genero": "F",
+    "imagen": "img/youngeun.png"
+  },
+  {
+    "nombre": "Yeseo",
+    "grupo": "Kep1er",
+    "genero": "F",
+    "imagen": "img/yeseo.png"
+  },
+  {
+    "nombre": "Chaewon",
+    "grupo": "LE SSERAFIM",
+    "genero": "F",
+    "imagen": "img/chaewon.png"
+  },
+  {
+    "nombre": "Sakura",
+    "grupo": "LE SSERAFIM",
+    "genero": "F",
+    "imagen": "img/sakura.png"
+  },
+  {
+    "nombre": "Yunjin",
+    "grupo": "LE SSERAFIM",
+    "genero": "F",
+    "imagen": "img/yunjin.png"
+  },
+  {
+    "nombre": "Kazuha",
+    "grupo": "LE SSERAFIM",
+    "genero": "F",
+    "imagen": "img/kazuha.png"
+  },
+  {
+    "nombre": "Eunchae",
+    "grupo": "LE SSERAFIM",
+    "genero": "F",
+    "imagen": "img/eunchae.png"
+  },
+  {
+    "nombre": "Minji",
+    "grupo": "NewJeans",
+    "genero": "F",
+    "imagen": "img/minji.png"
+  },
+  {
+    "nombre": "Hanni",
+    "grupo": "NewJeans",
+    "genero": "F",
+    "imagen": "img/hanni.png"
+  },
+  {
+    "nombre": "Danielle",
+    "grupo": "NewJeans",
+    "genero": "F",
+    "imagen": "img/danielle.png"
+  },
+  {
+    "nombre": "Haerin",
+    "grupo": "NewJeans",
+    "genero": "F",
+    "imagen": "img/haerin.png"
+  },
+  {
+    "nombre": "Hyein",
+    "grupo": "NewJeans",
+    "genero": "F",
+    "imagen": "img/hyein.png"
+  },
+  {
+    "nombre": "Lily",
+    "grupo": "NMIXX",
+    "genero": "F",
+    "imagen": "img/lily.png"
+  },
+  {
+    "nombre": "Haewon",
+    "grupo": "NMIXX",
+    "genero": "F",
+    "imagen": "img/haewon.png"
+  },
+  {
+    "nombre": "Sullyoon",
+    "grupo": "NMIXX",
+    "genero": "F",
+    "imagen": "img/sullyoon.png"
+  },
+  {
+    "nombre": "Bae",
+    "grupo": "NMIXX",
+    "genero": "F",
+    "imagen": "img/bae.png"
+  },
+  {
+    "nombre": "Jiwoo",
+    "grupo": "NMIXX",
+    "genero": "F",
+    "imagen": "img/jiwoo.png"
+  },
+  {
+    "nombre": "Kyujin",
+    "grupo": "NMIXX",
+    "genero": "F",
+    "imagen": "img/kyujin.png"
+  },
+  {
+    "nombre": "Irene",
+    "grupo": "Red Velvet",
+    "genero": "F",
+    "imagen": "img/irene.png"
+  },
+  {
+    "nombre": "Seulgi",
+    "grupo": "Red Velvet",
+    "genero": "F",
+    "imagen": "img/seulgi.png"
+  },
+  {
+    "nombre": "Wendy",
+    "grupo": "Red Velvet",
+    "genero": "F",
+    "imagen": "img/wendy.png"
+  },
+  {
+    "nombre": "Joy",
+    "grupo": "Red Velvet",
+    "genero": "F",
+    "imagen": "img/joy.png"
+  },
+  {
+    "nombre": "Yeri",
+    "grupo": "Red Velvet",
+    "genero": "F",
+    "imagen": "img/yeri.png"
+  },
+  {
+    "nombre": "Sumin",
+    "grupo": "STAYC",
+    "genero": "F",
+    "imagen": "img/sumin.png"
+  },
+  {
+    "nombre": "Sieun",
+    "grupo": "STAYC",
+    "genero": "F",
+    "imagen": "img/sieun.png"
+  },
+  {
+    "nombre": "Isa",
+    "grupo": "STAYC",
+    "genero": "F",
+    "imagen": "img/isa.png"
+  },
+  {
+    "nombre": "Seeun",
+    "grupo": "STAYC",
+    "genero": "F",
+    "imagen": "img/seeun.png"
+  },
+  {
+    "nombre": "Yoon",
+    "grupo": "STAYC",
+    "genero": "F",
+    "imagen": "img/yoon.png"
+  },
+  {
+    "nombre": "J",
+    "grupo": "STAYC",
+    "genero": "F",
+    "imagen": "img/j.png"
+  },
+  {
+    "nombre": "Nayeon",
+    "grupo": "TWICE",
+    "genero": "F",
+    "imagen": "img/nayeon.png"
+  },
+  {
+    "nombre": "Jeongyeon",
+    "grupo": "TWICE",
+    "genero": "F",
+    "imagen": "img/jeongyeon.png"
+  },
+  {
+    "nombre": "Momo",
+    "grupo": "TWICE",
+    "genero": "F",
+    "imagen": "img/momo.png"
+  },
+  {
+    "nombre": "Sana",
+    "grupo": "TWICE",
+    "genero": "F",
+    "imagen": "img/sana.png"
+  },
+  {
+    "nombre": "Jihyo",
+    "grupo": "TWICE",
+    "genero": "F",
+    "imagen": "img/jihyo.png"
+  },
+  {
+    "nombre": "Mina",
+    "grupo": "TWICE",
+    "genero": "F",
+    "imagen": "img/mina.png"
+  },
+  {
+    "nombre": "Dahyun",
+    "grupo": "TWICE",
+    "genero": "F",
+    "imagen": "img/dahyun.png"
+  },
+  {
+    "nombre": "Chaeyoung",
+    "grupo": "TWICE",
+    "genero": "F",
+    "imagen": "img/chaeyoung.png"
+  },
+  {
+    "nombre": "Tzuyu",
+    "grupo": "TWICE",
+    "genero": "F",
+    "imagen": "img/tzuyu.png"
+  },
+  {
+    "nombre": "Soojin",
+    "grupo": "Weeekly",
+    "genero": "F",
+    "imagen": "img/soojin.png"
+  },
+  {
+    "nombre": "Jiyoon",
+    "grupo": "Weeekly",
+    "genero": "F",
+    "imagen": "img/jiyoon.png"
+  },
+  {
+    "nombre": "Monday",
+    "grupo": "Weeekly",
+    "genero": "F",
+    "imagen": "img/monday.png"
+  },
+  {
+    "nombre": "Soeun",
+    "grupo": "Weeekly",
+    "genero": "F",
+    "imagen": "img/soeun.png"
+  },
+  {
+    "nombre": "Jaehee",
+    "grupo": "Weeekly",
+    "genero": "F",
+    "imagen": "img/jaehee.png"
+  },
+  {
+    "nombre": "Jihan",
+    "grupo": "Weeekly",
+    "genero": "F",
+    "imagen": "img/jihan.png"
+  },
+  {
+    "nombre": "Zoa",
+    "grupo": "Weeekly",
+    "genero": "F",
+    "imagen": "img/zoa.png"
+  }
+]
